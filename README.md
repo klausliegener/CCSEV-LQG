@@ -11,7 +11,7 @@ This project contains all relevant files to evaluate the expectation values of p
 
 [C] Main.m - contains the implementation of the algorithm from [1] as a pre-compiled mathematica file
 
-[D] DiracQ_mod.m - contains a slightly modified version of [2],  the DiracQ package by jgwright1986
+[D] DiracQ_mod.m - contains a slightly modified version of [2],  the DiracQ package by Wright&Shastry
 
 
 ### References
