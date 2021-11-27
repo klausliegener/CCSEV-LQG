@@ -3,7 +3,7 @@ Cosmological Coherent State Expectation Values in LQG
 
 
 ### Content
-This project contains all relevant files to evaluate the expectation values of polynomial operators in cosmological coherent states (prerequirement mathematica).
+This project contains all relevant files to evaluate the expectation values of polynomial operators in cosmological coherent states (prerequirement: mathematica).
 
 [A] Introduction.pdf - contains a description of and guide to the code
 
