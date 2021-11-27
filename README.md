@@ -16,4 +16,4 @@ This project contains all relevant files to evaluate the expectation values of p
 
 ### References
 [1] K. Liegener, L. Rudnicki, CQG 38 205001 (2021), https://arxiv.org/abs/2012.07813
-[2] jgwright1986, DiracQV1, https://github.com/jgwright1986/DiracQ
+[2] J.G. Wright, B.S. Shastry, DiracQV1, https://github.com/jgwright1986/DiracQ
